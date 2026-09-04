@@ -1,0 +1,70 @@
+about:
+  description:
+  |
+    Search infrastructure for AI
+  license: Apache-2.0
+  homepage: https://www.trychroma.com/
+  head: 34f8e76
+  archived: false
+  latestVersion: latest
+  collectedAt: 2026-09-04T05:10:38Z
+timeline:
+  created: 2022-10-05
+  lastCommit: 2026-09-03
+  lastRelease: 2025-04-01
+popularity:
+  star: 29219
+  watcher: 137
+  fork: 2480
+  release: 137
+  contributor: 194
+  pullRequest: 1550
+  issue: 1687
+language:
+  Rust: 11723310
+  Python: 2561252
+  TypeScript: 1082252
+  Go: 875570
+  Jupyter Notebook: 387825
+  Shell: 33405
+  Starlark: 19824
+  HCL: 17555
+  JavaScript: 16299
+  Dockerfile: 14956
+  Makefile: 3955
+  CSS: 2947
+  PowerShell: 2455
+totalBytes: 16741605
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 0
+    mergedPR: 35
+    openPR: 67
+    closedIssue: 0
+    openIssue: 10
+    commit: 33
+  last90d:
+    since: 2026-06-06
+    release: 0
+    mergedPR: 177
+    openPR: 183
+    closedIssue: 4
+    openIssue: 46
+    commit: 172
+  last180d:
+    since: 2026-03-08
+    release: 9
+    mergedPR: 502
+    openPR: 295
+    closedIssue: 16
+    openIssue: 91
+    commit: 480
+  last360d:
+    since: 2025-09-09
+    release: 36
+    mergedPR: 1365
+    openPR: 358
+    closedIssue: 69
+    openIssue: 136
+    commit: 1266
