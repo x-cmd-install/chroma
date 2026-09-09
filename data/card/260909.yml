@@ -2,29 +2,29 @@ about:
   description: "Search infrastructure for AI"
   license: Apache-2.0
   homepage: https://www.trychroma.com/
-  head: 5d8645d
+  head: 12deeea
   archived: false
   latestVersion: "latest"
   latestRelease: "1.5.9"
   latestPrerelease: "latest"
-  collectedAt: 2026-09-09T06:21:50Z
+  collectedAt: 2026-09-09T20:46:36Z
 timeline:
   created: 2022-10-05
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2025-04-01
   lastRelease: 2026-05-05
   lastPrerelease: 2025-04-01
 popularity:
-  star: 29255
+  star: 29263
   watcher: 138
   fork: 2492
   release: 137
   contributor: 194
-  pullRequest: 5949
+  pullRequest: 5951
   issue: 1690
 language:
-  Rust: 11718213
-  Python: 2561252
+  Rust: 11755972
+  Python: 2562379
   TypeScript: 1082252
   Go: 875570
   Jupyter Notebook: 387825
@@ -36,87 +36,87 @@ language:
   Makefile: 3955
   CSS: 2947
   PowerShell: 2455
-totalBytes: 16736508
+totalBytes: 16775394
 recent:
   last30d:
     since: 2026-08-10
     release: 0
-    mergedPR: 33
-    openPR: 74
+    mergedPR: 34
+    openPR: 75
     closedIssue: 0
     openIssue: 12
-    commit: 31
+    commit: 32
   last60d:
     since: 2026-07-11
     release: 0
-    mergedPR: 75
-    openPR: 135
+    mergedPR: 76
+    openPR: 136
     closedIssue: 1
     openIssue: 25
-    commit: 74
+    commit: 75
   last90d:
     since: 2026-06-11
     release: 0
-    mergedPR: 173
-    openPR: 189
+    mergedPR: 174
+    openPR: 190
     closedIssue: 3
     openIssue: 47
-    commit: 152
+    commit: 153
   last180d:
     since: 2026-03-13
     release: 8
-    mergedPR: 478
-    openPR: 306
+    mergedPR: 479
+    openPR: 307
     closedIssue: 16
     openIssue: 93
-    commit: 449
+    commit: 450
   last360d:
     since: 2025-09-14
     release: 34
-    mergedPR: 1341
-    openPR: 372
+    mergedPR: 1342
+    openPR: 373
     closedIssue: 67
     openIssue: 136
-    commit: 1226
+    commit: 1227
   last720d:
     since: 2024-09-19
     release: 78
-    mergedPR: 3175
-    openPR: 467
+    mergedPR: 3176
+    openPR: 468
     closedIssue: 305
     openIssue: 229
-    commit: 2954
+    commit: 2955
 total:
   release: 137
-  mergedPR: 4381
-  openPR: 500
+  mergedPR: 4382
+  openPR: 501
   closedIssue: 1350
   openIssue: 340
-  commit: 4628
+  commit: 4629
 ---
 path: /home/runner/.x-repo/github.com/chroma-core/chroma
-collectedAt: 2026-09-09T06:22:30Z
+collectedAt: 2026-09-09T20:47:31Z
 loc:
   Rust:
-    code: 266867
-    comments: 11161
-    blanks: 28953
-    files: 728
+    code: 267718
+    comments: 11200
+    blanks: 29027
+    files: 734
   Python:
-    code: 60907
+    code: 60936
     comments: 3214
-    blanks: 10543
-    files: 250
+    blanks: 10550
+    files: 251
   TypeScript:
     code: 28149
     comments: 4424
     blanks: 3960
     files: 232
   Yaml:
-    code: 26993
-    comments: 158
+    code: 27009
+    comments: 160
     blanks: 4224
-    files: 74
+    files: 75
   Go:
     code: 21283
     comments: 1814
@@ -127,16 +127,16 @@ loc:
     comments: 0
     blanks: 0
     files: 119
+  Toml:
+    code: 1530
+    comments: 9
+    blanks: 190
+    files: 45
   Protobuf:
     code: 1523
     comments: 224
     blanks: 341
     files: 11
-  Toml:
-    code: 1511
-    comments: 9
-    blanks: 187
-    files: 44
   Hcl:
     code: 1316
     comments: 36
@@ -204,19 +204,19 @@ loc:
     files: 3
   Markdown:
     code: 0
-    comments: 4070
-    blanks: 1712
-    files: 82
+    comments: 4144
+    blanks: 1733
+    files: 83
   Text:
     code: 0
     comments: 1546
     blanks: 1382
     files: 16
 total:
-  code: 434579
-  comments: 39849
-  blanks: 58497
-  files: 1845
+  code: 435509
+  comments: 40027
+  blanks: 58613
+  files: 1855
 ---
 date: "2026-09-07"
 repo:
