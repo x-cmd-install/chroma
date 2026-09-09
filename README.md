@@ -5,9 +5,9 @@ Search infrastructure for AI
 - **Upstream**: <https://github.com/chroma-core/chroma>
 - **Homepage**: <https://www.trychroma.com/>
 - **Latest release**: `latest` (2026-05-05)
-- **Last commit**: 2026-09-03
+- **Last commit**: 2026-09-08
 - **License**: Apache-2.0
-- **Stars**: 29249 · **Forks**: 2489 · **Open issues**: 1689 · **Contributors**: 194
+- **Stars**: 29255 · **Forks**: 2492 · **Open issues**: 1690 · **Contributors**: 194
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/chroma> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T12:38:02Z._
+_Last regenerated: 2026-09-09T06:22:34Z._
