@@ -12,43 +12,16 @@ Search infrastructure for AI
 x install chroma
 ```
 
-## Source
+## Code insight
 
-- **Upstream**: <https://github.com/chroma-core/chroma>
-- **Homepage**: <https://www.trychroma.com/>
-- **License**: Apache-2.0
-
-## Release
-
-- **Latest**: `latest` (2026-05-05)
-- **Last commit**: 2026-09-09
-
-## Popularity
-
-- **Stars**: 29,270 · **Forks**: 2,493 · **Open issues**: 1,690 · **Contributors**: 194
-
-## Totals (cumulative)
-
-- **Releases**: 137 · **Merged PRs**: 4383 · **Open PRs**: 500 · **Closed issues**: 1350 · **Open issues**: 340 · **Commits**: 4630
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 34 | 73 | 0 | 12 | 33 |
-| 90d | 2026-06-12 | 0 | 165 | 188 | 3 | 45 | 154 |
-| 360d | 2025-09-15 | 34 | 1340 | 372 | 66 | 136 | 1228 |
-
-## Code size
-
-Total: **433,335** lines of code across **1392** files in the top 5 languages.
+Total: **433,474** lines of code across **1392** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 267,718 | 11,200 | 29,027 | 734 |
+| Rust | 267,830 | 11,204 | 29,035 | 734 |
 | Python | 60,947 | 3,214 | 10,553 | 251 |
 | TypeScript | 28,149 | 4,424 | 3,960 | 232 |
-| Yaml | 27,021 | 160 | 4,224 | 76 |
+| Yaml | 27,048 | 163 | 4,224 | 76 |
 | Go | 21,283 | 1,814 | 3,575 | 99 |
 
 ## OpenSSF Scorecard
@@ -61,6 +34,49 @@ Lowest-scoring checks:
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Security-Policy** (0/10) — security policy file not detected
 
+## Source
+
+- **Upstream**: <https://github.com/chroma-core/chroma>
+- **Homepage**: <https://www.trychroma.com/>
+- **License**: Apache-2.0
+
+## Release
+
+- **Latest**: `latest` (2026-05-05)
+- **Last commit**: 2026-09-10
+
+## Popularity
+
+- **Stars**: 29,270 · **Forks**: 2,494 · **Open issues**: 1,690 · **Contributors**: 194
+
+## Totals (cumulative)
+
+- **Releases**: 137 · **Merged PRs**: 4384 · **Open PRs**: 502 · **Closed issues**: 1350 · **Open issues**: 340 · **Commits**: 4631
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 35 | 75 | 0 | 12 | 0 |
+| last60d | 2026-07-12 | 0 | 78 | 136 | 1 | 25 | 0 |
+| 90d | 2026-06-12 | 0 | 166 | 190 | 3 | 45 | 0 |
+| last180d | 2026-03-14 | 8 | 477 | 306 | 16 | 93 | 0 |
+| 360d | 2025-09-15 | 34 | 1341 | 374 | 66 | 136 | 0 |
+| last720d | 2024-09-20 | 78 | 3172 | 469 | 305 | 228 | 2955 |
+
+## Distribution status
+
+Reported by **39** distros on [repology.org](https://repology.org/project/chroma). **7** are ✅ on the latest upstream release, **32** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `1.19` | ⚠️ outdated |
+| Debian 14 | `1.19` | ⚠️ outdated |
+| Debian 13 | `1.19` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `1.19` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `1.19` | ⚠️ outdated |
+| Fedora rawhide | `1.21` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for chroma lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `chroma` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -70,4 +86,4 @@ Install metadata for chroma lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T18:29:19Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:41:48Z._
