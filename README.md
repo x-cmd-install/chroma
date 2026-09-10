@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 29,270 · **Forks**: 2,494 · **Open issues**: 1,690 · **Contributors**: 194
+- **Stars**: 29,271 · **Forks**: 2,494 · **Open issues**: 1,690 · **Contributors**: 194
 
 ## Totals (cumulative)
 
@@ -86,4 +86,4 @@ Install metadata for chroma lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:41:48Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T22:08:22Z._
