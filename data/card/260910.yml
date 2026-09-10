@@ -7,7 +7,7 @@ about:
   latestVersion: "latest"
   latestRelease: "1.5.9"
   latestPrerelease: "latest"
-  collectedAt: 2026-09-10T21:40:58Z
+  collectedAt: 2026-09-10T22:07:35Z
 timeline:
   created: 2022-10-05
   lastCommit: 2026-09-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-05-05
   lastPrerelease: 2025-04-01
 popularity:
-  star: 29270
+  star: 29271
   watcher: 138
   fork: 2494
   release: 137
@@ -95,7 +95,7 @@ total:
   commit: 4631
 ---
 path: /home/runner/.x-repo/github.com/chroma-core/chroma
-collectedAt: 2026-09-10T21:41:42Z
+collectedAt: 2026-09-10T22:08:16Z
 loc:
   Rust:
     code: 267830
