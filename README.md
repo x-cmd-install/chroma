@@ -47,26 +47,26 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 29,271 · **Forks**: 2,494 · **Open issues**: 1,690 · **Contributors**: 194
+- **Stars**: 29,280 · **Forks**: 2,496 · **Open issues**: 1,690 · **Contributors**: 194
 
 ## Totals (cumulative)
 
-- **Releases**: 137 · **Merged PRs**: 4384 · **Open PRs**: 502 · **Closed issues**: 1350 · **Open issues**: 340 · **Commits**: 4631
+- **Releases**: 137 · **Merged PRs**: 4384 · **Open PRs**: 503 · **Closed issues**: 1350 · **Open issues**: 340 · **Commits**: 4631
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 35 | 75 | 0 | 12 | 0 |
-| last60d | 2026-07-12 | 0 | 78 | 136 | 1 | 25 | 0 |
-| 90d | 2026-06-12 | 0 | 166 | 190 | 3 | 45 | 0 |
-| last180d | 2026-03-14 | 8 | 477 | 306 | 16 | 93 | 0 |
-| 360d | 2025-09-15 | 34 | 1341 | 374 | 66 | 136 | 0 |
-| last720d | 2024-09-20 | 78 | 3172 | 469 | 305 | 228 | 2955 |
+| 30d | 2026-08-12 | 0 | 35 | 74 | 0 | 12 | 34 |
+| last60d | 2026-07-13 | 0 | 78 | 135 | 1 | 25 | 77 |
+| 90d | 2026-06-13 | 0 | 166 | 189 | 3 | 44 | 155 |
+| last180d | 2026-03-15 | 8 | 477 | 307 | 15 | 93 | 452 |
+| 360d | 2025-09-16 | 34 | 1330 | 375 | 66 | 136 | 1229 |
+| last720d | 2024-09-21 | 77 | 3171 | 470 | 305 | 228 | 2951 |
 
 ## Distribution status
 
-Reported by **39** distros on [repology.org](https://repology.org/project/chroma). **7** are ✅ on the latest upstream release, **32** are ⚠️ on an older version.
+Reported by **38** distros on [repology.org](https://repology.org/project/chroma). **7** are ✅ on the latest upstream release, **31** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -86,4 +86,4 @@ Install metadata for chroma lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:08:22Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T06:23:44Z._
