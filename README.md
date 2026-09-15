@@ -14,15 +14,15 @@ x install chroma
 
 ## Code insight
 
-Total: **433,571** lines of code across **1393** files in the top 5 languages.
+Total: **433,905** lines of code across **1393** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 267,844 | 11,204 | 29,035 | 734 |
+| Rust | 268,075 | 11,206 | 29,056 | 734 |
 | Python | 60,947 | 3,214 | 10,553 | 251 |
-| TypeScript | 28,149 | 4,424 | 3,960 | 232 |
-| Yaml | 27,127 | 165 | 4,226 | 77 |
-| Go | 21,283 | 1,814 | 3,575 | 99 |
+| TypeScript | 28,180 | 4,446 | 3,966 | 232 |
+| Yaml | 27,127 | 166 | 4,226 | 77 |
+| Go | 21,353 | 1,815 | 3,583 | 99 |
 
 ## OpenSSF Scorecard
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `latest` (2026-05-05)
-- **Last commit**: 2026-09-11
+- **Last commit**: 2026-09-14
 
 ## Popularity
 
-- **Stars**: 29,292 · **Forks**: 2,506 · **Open issues**: 1,693 · **Contributors**: 194
+- **Stars**: 29,303 · **Forks**: 2,510 · **Open issues**: 1,695 · **Contributors**: 194
 
 ## Totals (cumulative)
 
-- **Releases**: 137 · **Merged PRs**: 4385 · **Open PRs**: 516 · **Closed issues**: 1350 · **Open issues**: 343 · **Commits**: 4632
+- **Releases**: 137 · **Merged PRs**: 4388 · **Open PRs**: 519 · **Closed issues**: 1350 · **Open issues**: 345 · **Commits**: 4635
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 34 | 82 | 0 | 14 | 21 |
-| last60d | 2026-07-16 | 0 | 71 | 143 | 1 | 27 | 63 |
-| 90d | 2026-06-16 | 0 | 159 | 197 | 3 | 46 | 146 |
-| last180d | 2026-03-18 | 8 | 456 | 312 | 14 | 91 | 422 |
-| 360d | 2025-09-19 | 32 | 1320 | 386 | 65 | 138 | 1215 |
-| last720d | 2024-09-24 | 77 | 3163 | 483 | 301 | 229 | 2950 |
+| 30d | 2026-08-16 | 0 | 36 | 80 | 0 | 15 | 24 |
+| last60d | 2026-07-17 | 0 | 71 | 145 | 1 | 28 | 66 |
+| 90d | 2026-06-17 | 0 | 158 | 199 | 3 | 48 | 149 |
+| last180d | 2026-03-19 | 8 | 456 | 315 | 14 | 93 | 425 |
+| 360d | 2025-09-20 | 32 | 1322 | 389 | 65 | 140 | 1218 |
+| last720d | 2024-09-25 | 77 | 3160 | 486 | 298 | 231 | 2948 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for chroma lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T06:34:50Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T06:37:33Z._
