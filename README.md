@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 29,334 · **Forks**: 2,523 · **Open issues**: 1,698 · **Contributors**: 195
+- **Stars**: 29,344 · **Forks**: 2,526 · **Open issues**: 1,698 · **Contributors**: 195
 
 ## Totals (cumulative)
 
-- **Releases**: 137 · **Merged PRs**: 4397 · **Open PRs**: 530 · **Closed issues**: 1350 · **Open issues**: 348 · **Commits**: 4643
+- **Releases**: 137 · **Merged PRs**: 4397 · **Open PRs**: 532 · **Closed issues**: 1350 · **Open issues**: 348 · **Commits**: 4643
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 0 | 29 | 77 | 0 | 17 | 32 |
-| last60d | 2026-07-22 | 0 | 68 | 149 | 1 | 27 | 74 |
-| 90d | 2026-06-22 | 0 | 161 | 196 | 1 | 41 | 157 |
-| last180d | 2026-03-24 | 8 | 453 | 319 | 13 | 93 | 433 |
-| 360d | 2025-09-25 | 32 | 1322 | 398 | 65 | 140 | 1226 |
-| last720d | 2024-09-30 | 75 | 3156 | 497 | 294 | 232 | 2933 |
+| 30d | 2026-08-22 | 0 | 29 | 77 | 0 | 17 | 28 |
+| last60d | 2026-07-23 | 0 | 67 | 149 | 1 | 25 | 57 |
+| 90d | 2026-06-23 | 0 | 161 | 197 | 1 | 41 | 140 |
+| last180d | 2026-03-25 | 8 | 445 | 320 | 13 | 92 | 403 |
+| 360d | 2025-09-26 | 32 | 1320 | 400 | 64 | 140 | 1213 |
+| last720d | 2024-10-01 | 75 | 3152 | 499 | 294 | 231 | 2926 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for chroma lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T06:27:47Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T06:34:34Z._
