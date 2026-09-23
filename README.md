@@ -4,7 +4,7 @@
 
 Search infrastructure for AI
 
-[![x-cmd/install — chroma Code Quality Monitoring Repo Card](https://repo.x-cmd.io/chroma.svg)](https://x-cmd.com/install/chroma)
+[![x-cmd/install — chroma Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/chroma.svg)](https://x-cmd.com/install/chroma)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 29,354 · **Forks**: 2,526 · **Open issues**: 1,698 · **Contributors**: 195
+- **Stars**: 29,356 · **Forks**: 2,527 · **Open issues**: 1,698 · **Contributors**: 195
 
 ## Totals (cumulative)
 
-- **Releases**: 137 · **Merged PRs**: 4402 · **Open PRs**: 529 · **Closed issues**: 1350 · **Open issues**: 348 · **Commits**: 4648
+- **Releases**: 137 · **Merged PRs**: 4402 · **Open PRs**: 531 · **Closed issues**: 1350 · **Open issues**: 348 · **Commits**: 4648
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 34 | 75 | 0 | 17 | 33 |
-| last60d | 2026-07-24 | 0 | 70 | 144 | 1 | 24 | 62 |
-| 90d | 2026-06-24 | 0 | 161 | 193 | 1 | 41 | 145 |
-| last180d | 2026-03-26 | 8 | 441 | 316 | 13 | 91 | 408 |
-| 360d | 2025-09-27 | 32 | 1324 | 397 | 64 | 140 | 1218 |
-| last720d | 2024-10-02 | 75 | 3157 | 495 | 294 | 230 | 2927 |
+| 30d | 2026-08-24 | 0 | 34 | 76 | 0 | 16 | 33 |
+| last60d | 2026-07-25 | 0 | 69 | 145 | 1 | 24 | 62 |
+| 90d | 2026-06-25 | 0 | 135 | 190 | 1 | 41 | 145 |
+| last180d | 2026-03-27 | 8 | 435 | 314 | 13 | 90 | 408 |
+| 360d | 2025-09-28 | 32 | 1324 | 399 | 64 | 140 | 1218 |
+| last720d | 2024-10-03 | 75 | 3152 | 497 | 294 | 230 | 2927 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for chroma lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:35:00Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:38:34Z._
