@@ -14,11 +14,11 @@ x install chroma
 
 ## Code insight
 
-Total: **440,296** lines of code across **1408** files in the top 5 languages.
+Total: **440,357** lines of code across **1408** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 274,168 | 11,490 | 29,596 | 748 |
+| Rust | 274,229 | 11,494 | 29,599 | 748 |
 | Python | 60,947 | 3,214 | 10,553 | 251 |
 | TypeScript | 28,216 | 4,446 | 3,973 | 232 |
 | Yaml | 27,127 | 167 | 4,226 | 77 |
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 29,402 · **Forks**: 2,538 · **Open issues**: 1,703 · **Contributors**: 195
+- **Stars**: 29,410 · **Forks**: 2,540 · **Open issues**: 1,703 · **Contributors**: 195
 
 ## Totals (cumulative)
 
-- **Releases**: 137 · **Merged PRs**: 4409 · **Open PRs**: 551 · **Closed issues**: 1350 · **Open issues**: 353 · **Commits**: 4655
+- **Releases**: 137 · **Merged PRs**: 4410 · **Open PRs**: 555 · **Closed issues**: 1350 · **Open issues**: 353 · **Commits**: 4656
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 0 | 34 | 80 | 0 | 19 | 28 |
-| last60d | 2026-07-31 | 0 | 67 | 146 | 0 | 26 | 61 |
-| 90d | 2026-07-01 | 0 | 124 | 209 | 1 | 42 | 142 |
-| last180d | 2026-04-02 | 8 | 428 | 320 | 10 | 95 | 393 |
-| 360d | 2025-10-04 | 31 | 1308 | 416 | 64 | 143 | 1205 |
-| last720d | 2024-10-09 | 74 | 3141 | 516 | 291 | 234 | 2924 |
+| 30d | 2026-08-31 | 0 | 35 | 82 | 0 | 18 | 29 |
+| last60d | 2026-08-01 | 0 | 68 | 145 | 0 | 26 | 62 |
+| 90d | 2026-07-02 | 0 | 122 | 210 | 1 | 41 | 143 |
+| last180d | 2026-04-03 | 8 | 420 | 324 | 10 | 95 | 394 |
+| 360d | 2025-10-05 | 31 | 1309 | 420 | 64 | 143 | 1206 |
+| last720d | 2024-10-10 | 74 | 3133 | 519 | 288 | 234 | 2922 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for chroma lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T07:03:35Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:49:42Z._
