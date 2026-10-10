@@ -14,12 +14,12 @@ x install chroma
 
 ## Code insight
 
-Total: **445,182** lines of code across **1414** files in the top 5 languages.
+Total: **449,656** lines of code across **1420** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 279,000 | 11,631 | 29,812 | 754 |
-| Python | 60,967 | 3,214 | 10,554 | 251 |
+| Rust | 283,448 | 11,739 | 29,977 | 760 |
+| Python | 60,981 | 3,216 | 10,553 | 251 |
 | TypeScript | 28,245 | 4,462 | 3,979 | 232 |
 | Yaml | 27,127 | 167 | 4,226 | 77 |
 | Go | 21,586 | 1,820 | 3,606 | 100 |
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 29,471 · **Forks**: 2,553 · **Open issues**: 1,707 · **Contributors**: 195
+- **Stars**: 29,471 · **Forks**: 2,554 · **Open issues**: 1,708 · **Contributors**: 195
 
 ## Totals (cumulative)
 
-- **Releases**: 137 · **Merged PRs**: 4438 · **Open PRs**: 563 · **Closed issues**: 1351 · **Open issues**: 356 · **Commits**: 4669
+- **Releases**: 137 · **Merged PRs**: 4445 · **Open PRs**: 557 · **Closed issues**: 1351 · **Open issues**: 357 · **Commits**: 4673
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 0 | 52 | 72 | 1 | 16 | 38 |
-| last60d | 2026-08-10 | 0 | 90 | 139 | 1 | 28 | 74 |
-| 90d | 2026-07-11 | 0 | 132 | 199 | 2 | 41 | 119 |
-| last180d | 2026-04-12 | 4 | 407 | 319 | 10 | 85 | 382 |
-| 360d | 2025-10-14 | 30 | 1293 | 425 | 63 | 146 | 1182 |
-| last720d | 2024-10-19 | 72 | 3128 | 527 | 286 | 236 | 2900 |
+| 30d | 2026-09-10 | 0 | 56 | 68 | 1 | 17 | 42 |
+| last60d | 2026-08-11 | 0 | 96 | 135 | 1 | 29 | 78 |
+| 90d | 2026-07-12 | 0 | 139 | 193 | 2 | 42 | 123 |
+| last180d | 2026-04-13 | 4 | 411 | 313 | 10 | 86 | 386 |
+| 360d | 2025-10-15 | 30 | 1298 | 419 | 63 | 147 | 1186 |
+| last720d | 2024-10-20 | 72 | 3135 | 521 | 286 | 237 | 2903 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for chroma lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T07:21:48Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T07:01:41Z._
