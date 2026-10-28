@@ -26,7 +26,7 @@ Total: **450,100** lines of code across **1422** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.1 / 10**
+Overall score: **5 / 10**
 
 Lowest-scoring checks:
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 29,590 · **Forks**: 2,603 · **Open issues**: 1,727 · **Contributors**: 196
+- **Stars**: 29,595 · **Forks**: 2,602 · **Open issues**: 1,728 · **Contributors**: 196
 
 ## Totals (cumulative)
 
-- **Releases**: 137 · **Merged PRs**: 4458 · **Open PRs**: 606 · **Closed issues**: 1352 · **Open issues**: 375 · **Commits**: 4679
+- **Releases**: 137 · **Merged PRs**: 4458 · **Open PRs**: 607 · **Closed issues**: 1352 · **Open issues**: 376 · **Commits**: 4679
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 39 | 79 | 0 | 22 | 16 |
-| last60d | 2026-08-28 | 0 | 84 | 146 | 1 | 42 | 58 |
-| 90d | 2026-07-29 | 0 | 119 | 207 | 2 | 48 | 87 |
-| last180d | 2026-04-30 | 3 | 371 | 344 | 7 | 97 | 328 |
-| 360d | 2025-11-01 | 27 | 1166 | 462 | 60 | 163 | 1036 |
-| last720d | 2024-11-06 | 69 | 3072 | 565 | 275 | 254 | 2842 |
+| 30d | 2026-09-28 | 0 | 37 | 79 | 0 | 23 | 16 |
+| last60d | 2026-08-29 | 0 | 83 | 144 | 1 | 42 | 58 |
+| 90d | 2026-07-30 | 0 | 118 | 206 | 1 | 49 | 87 |
+| last180d | 2026-05-01 | 3 | 366 | 345 | 7 | 96 | 328 |
+| 360d | 2025-11-02 | 27 | 1164 | 463 | 60 | 164 | 1036 |
+| last720d | 2024-11-07 | 69 | 3062 | 565 | 274 | 255 | 2839 |
 
 ## Distribution status
 
@@ -86,4 +86,4 @@ Install metadata for chroma lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T06:24:36Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T06:58:11Z._
