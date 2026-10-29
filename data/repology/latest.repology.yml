@@ -1,5 +1,5 @@
-- repo: devuan_unstable
-  subrepo: unstable/main
+- repo: debian_12
+  subrepo: bookworm/main
   srcname: chroma
   binnames:
     - chroma-data
@@ -13,21 +13,18 @@
     - anakin@pobox.com
   categories:
     - misc
-- repo: debian_unstable
-  subrepo: sid/main
+- repo: aur
   srcname: chroma
-  binnames:
-    - chroma-data
-    - chroma-curses
-    - chroma
+  binname: chroma
   visiblename: chroma
-  version: "1.19"
-  origversion: 1.19-2
+  version: "1.20"
+  origversion: 1.20-1
   status: outdated
+  summary: Abstract puzzle game.
   maintainers:
-    - anakin@pobox.com
-  categories:
-    - misc
+    - vikits@aur
+  licenses:
+    - GPL
 - repo: alt_p11
   srcname: chroma
   binnames:
@@ -62,33 +59,6 @@
     - GPLv2
   categories:
     - Games/Puzzles
-- repo: aur
-  srcname: chroma
-  binname: chroma
-  visiblename: chroma
-  version: "1.20"
-  origversion: 1.20-1
-  status: outdated
-  summary: Abstract puzzle game.
-  maintainers:
-    - vikits@aur
-  licenses:
-    - GPL
-- repo: debian_12
-  subrepo: bookworm/main
-  srcname: chroma
-  binnames:
-    - chroma-data
-    - chroma-curses
-    - chroma
-  visiblename: chroma
-  version: "1.19"
-  origversion: 1.19-2
-  status: outdated
-  maintainers:
-    - anakin@pobox.com
-  categories:
-    - misc
 - repo: debian_13
   subrepo: trixie/main
   srcname: chroma
@@ -106,6 +76,36 @@
     - misc
 - repo: debian_14
   subrepo: forky/main
+  srcname: chroma
+  binnames:
+    - chroma-data
+    - chroma-curses
+    - chroma
+  visiblename: chroma
+  version: "1.19"
+  origversion: 1.19-2
+  status: outdated
+  maintainers:
+    - anakin@pobox.com
+  categories:
+    - misc
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: chroma
+  binnames:
+    - chroma-data
+    - chroma-curses
+    - chroma
+  visiblename: chroma
+  version: "1.19"
+  origversion: 1.19-2
+  status: outdated
+  maintainers:
+    - anakin@pobox.com
+  categories:
+    - misc
+- repo: devuan_unstable
+  subrepo: unstable/main
   srcname: chroma
   binnames:
     - chroma-data
@@ -287,7 +287,7 @@
   categories:
     - Amusements/Games/Action/Arcade
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: chroma
   binnames:
     - chroma-data
@@ -302,7 +302,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: chroma
   binnames:
     - chroma-data
