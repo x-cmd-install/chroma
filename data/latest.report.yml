@@ -7,7 +7,7 @@ about:
   latestVersion: "latest"
   latestRelease: "1.5.9"
   latestPrerelease: "latest"
-  collectedAt: 2026-10-29T07:02:55Z
+  collectedAt: 2026-10-30T07:03:35Z
 timeline:
   created: 2022-10-05
   lastCommit: 2026-10-22
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-05-05
   lastPrerelease: 2025-04-01
 popularity:
-  star: 29600
+  star: 29608
   watcher: 131
   fork: 2602
   release: 137
@@ -39,63 +39,63 @@ language:
 totalBytes: 17477505
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 0
-    mergedPR: 34
-    openPR: 78
+    mergedPR: 32
+    openPR: 77
     closedIssue: 0
-    openIssue: 23
+    openIssue: 22
     commit: 16
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 0
     mergedPR: 83
-    openPR: 129
+    openPR: 126
     closedIssue: 1
-    openIssue: 42
+    openIssue: 41
     commit: 58
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 0
     mergedPR: 116
-    openPR: 190
+    openPR: 184
     closedIssue: 1
     openIssue: 49
     commit: 87
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 2
     mergedPR: 366
-    openPR: 331
+    openPR: 330
     closedIssue: 7
     openIssue: 96
     commit: 328
   last360d:
-    since: 2025-11-03
-    release: 27
-    mergedPR: 1154
-    openPR: 449
-    closedIssue: 59
+    since: 2025-11-04
+    release: 26
+    mergedPR: 1148
+    openPR: 447
+    closedIssue: 57
     openIssue: 163
     commit: 1036
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 69
-    mergedPR: 3058
-    openPR: 552
+    mergedPR: 3055
+    openPR: 551
     closedIssue: 274
-    openIssue: 255
-    commit: 2829
+    openIssue: 254
+    commit: 2824
 total:
   release: 137
   mergedPR: 4458
-  openPR: 594
+  openPR: 593
   closedIssue: 1352
   openIssue: 376
   commit: 4679
 ---
 path: /home/runner/.x-repo/github.com/chroma-core/chroma
-collectedAt: 2026-10-29T07:03:34Z
+collectedAt: 2026-10-30T07:04:11Z
 loc:
   Rust:
     code: 283886
