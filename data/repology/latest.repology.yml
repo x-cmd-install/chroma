@@ -1,17 +1,15 @@
-- repo: mageia_10
-  subrepo: core/release
+- repo: aur
   srcname: chroma
-  binnames:
-    - chroma
+  binname: chroma
   visiblename: chroma
-  version: "1.21"
-  origversion: 1.21-1.mga10
-  status: newest
-  summary: Abstract puzzle game with complex patterns of colourful shapes
+  version: "1.20"
+  origversion: 1.20-1
+  status: outdated
+  summary: Abstract puzzle game.
+  maintainers:
+    - vikits@aur
   licenses:
-    - GPLv2+
-  categories:
-    - Games/Puzzles
+    - GPL
 - repo: alt_p11
   srcname: chroma
   binnames:
@@ -46,18 +44,6 @@
     - GPLv2
   categories:
     - Games/Puzzles
-- repo: aur
-  srcname: chroma
-  binname: chroma
-  visiblename: chroma
-  version: "1.20"
-  origversion: 1.20-1
-  status: outdated
-  summary: Abstract puzzle game.
-  maintainers:
-    - vikits@aur
-  licenses:
-    - GPL
 - repo: debian_12
   subrepo: bookworm/main
   srcname: chroma
@@ -238,6 +224,20 @@
   version: "1.20"
   origversion: 1.20-1.mga9
   status: outdated
+  summary: Abstract puzzle game with complex patterns of colourful shapes
+  licenses:
+    - GPLv2+
+  categories:
+    - Games/Puzzles
+- repo: mageia_10
+  subrepo: core/release
+  srcname: chroma
+  binnames:
+    - chroma
+  visiblename: chroma
+  version: "1.21"
+  origversion: 1.21-1.mga10
+  status: newest
   summary: Abstract puzzle game with complex patterns of colourful shapes
   licenses:
     - GPLv2+
@@ -521,6 +521,21 @@
     - universe/misc
 - repo: ubuntu_26_10
   subrepo: stonking/universe
+  srcname: chroma
+  binnames:
+    - chroma-data
+    - chroma-curses
+    - chroma
+  visiblename: chroma
+  version: "1.19"
+  origversion: 1.19-2build1
+  status: outdated
+  maintainers:
+    - anakin@pobox.com
+  categories:
+    - universe/misc
+- repo: ubuntu_27_04
+  subrepo: tenacious/universe
   srcname: chroma
   binnames:
     - chroma-data
