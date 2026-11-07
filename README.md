@@ -43,30 +43,30 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `latest` (2026-05-05)
-- **Last commit**: 2026-10-22
+- **Last commit**: 2026-11-07
 
 ## Popularity
 
-- **Stars**: 29,648 · **Forks**: 2,603 · **Open issues**: 1,732 · **Contributors**: 196
+- **Stars**: 29,651 · **Forks**: 2,600 · **Open issues**: 1,733 · **Contributors**: 196
 
 ## Totals (cumulative)
 
-- **Releases**: 137 · **Merged PRs**: 4458 · **Open PRs**: 599 · **Closed issues**: 1353 · **Open issues**: 379 · **Commits**: 4679
+- **Releases**: 137 · **Merged PRs**: 4459 · **Open PRs**: 598 · **Closed issues**: 1353 · **Open issues**: 380 · **Commits**: 4680
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 21 | 67 | 0 | 24 | 10 |
-| last60d | 2026-09-07 | 0 | 75 | 127 | 1 | 41 | 51 |
-| 90d | 2026-08-08 | 0 | 114 | 180 | 1 | 52 | 85 |
-| last180d | 2026-05-10 | 0 | 352 | 328 | 7 | 98 | 316 |
-| 360d | 2025-11-11 | 24 | 1129 | 452 | 48 | 162 | 1019 |
-| last720d | 2024-11-16 | 69 | 3026 | 557 | 273 | 257 | 2789 |
+| 30d | 2026-10-08 | 0 | 19 | 63 | 0 | 25 | 11 |
+| last60d | 2026-09-08 | 0 | 75 | 124 | 1 | 41 | 52 |
+| 90d | 2026-08-09 | 0 | 115 | 179 | 1 | 53 | 86 |
+| last180d | 2026-05-11 | 0 | 351 | 325 | 7 | 99 | 317 |
+| 360d | 2025-11-12 | 24 | 1129 | 451 | 47 | 162 | 1020 |
+| last720d | 2024-11-17 | 69 | 3026 | 556 | 271 | 258 | 2789 |
 
 ## Distribution status
 
-Reported by **37** distros on [repology.org](https://repology.org/project/chroma). **8** are ✅ on the latest upstream release, **29** are ⚠️ on an older version.
+Reported by **38** distros on [repology.org](https://repology.org/project/chroma). **8** are ✅ on the latest upstream release, **30** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -86,4 +86,4 @@ Install metadata for chroma lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:56:41Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:19:04Z._
