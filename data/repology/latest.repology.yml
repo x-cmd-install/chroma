@@ -1,5 +1,5 @@
-- repo: debian_14
-  subrepo: forky/main
+- repo: raspbian_oldstable
+  subrepo: main
   srcname: chroma
   binnames:
     - chroma-data
@@ -13,8 +13,8 @@
     - anakin@pobox.com
   categories:
     - misc
-- repo: parrot
-  subrepo: parrot/main
+- repo: raspbian_stable
+  subrepo: main
   srcname: chroma
   binnames:
     - chroma-data
@@ -28,6 +28,80 @@
     - anakin@pobox.com
   categories:
     - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: chroma
+  binnames:
+    - chroma-data
+    - chroma-curses
+    - chroma
+  visiblename: chroma
+  version: "1.19"
+  origversion: 1.19-2
+  status: outdated
+  maintainers:
+    - anakin@pobox.com
+  categories:
+    - misc
+- repo: freebsd
+  srcname: games/chroma
+  binname: chroma
+  visiblename: games/chroma
+  version: "1.21"
+  origversion: null
+  status: newest
+  summary: Abstract puzzle game
+  maintainers:
+    - amdmi3@amdmi3.ru
+  categories:
+    - games
+- repo: gnuguix
+  srcname: chroma
+  binname: chroma
+  visiblename: chroma
+  version: "1.21"
+  origversion: null
+  status: newest
+  summary: Abstract puzzle game
+- repo: kali_rolling
+  subrepo: main
+  srcname: chroma
+  binnames:
+    - chroma-data
+    - chroma-curses
+    - chroma
+  visiblename: chroma
+  version: "1.19"
+  origversion: 1.19-2
+  status: outdated
+  maintainers:
+    - anakin@pobox.com
+  categories:
+    - misc
+- repo: libregamewiki
+  srcname: Chroma
+  visiblename: Chroma
+  version: "1.20"
+  origversion: 1.20 (2021-10-31)
+  status: outdated
+  categories:
+    - games
+- repo: rosa_2019_1
+  subrepo: contrib/release
+  srcname: chroma
+  binnames:
+    - chroma
+  visiblename: chroma
+  version: "1.20"
+  origversion: 1.20-1
+  status: outdated
+  summary: Abstract puzzle game with complex patterns of colourful shapes
+  maintainers:
+    - alexander@mezon.ru
+  licenses:
+    - GPLv2+
+  categories:
+    - Games/Puzzles
 - repo: alt_p11
   srcname: chroma
   binnames:
@@ -104,15 +178,21 @@
     - anakin@pobox.com
   categories:
     - misc
-- repo: pclinuxos
+- repo: debian_14
+  subrepo: forky/main
   srcname: chroma
+  binnames:
+    - chroma-data
+    - chroma-curses
+    - chroma
   visiblename: chroma
-  version: "1.18"
-  origversion: 1.18-1pclos2021
+  version: "1.19"
+  origversion: 1.19-2
   status: outdated
-  summary: Abstract puzzle game with complex patterns of colourful shapes
+  maintainers:
+    - anakin@pobox.com
   categories:
-    - Games/Puzzles
+    - misc
 - repo: debian_unstable
   subrepo: sid/main
   srcname: chroma
@@ -194,49 +274,6 @@
     - GPL-2.0-or-later
   categories:
     - Unspecified
-- repo: freebsd
-  srcname: games/chroma
-  binname: chroma
-  visiblename: games/chroma
-  version: "1.21"
-  origversion: null
-  status: newest
-  summary: Abstract puzzle game
-  maintainers:
-    - amdmi3@amdmi3.ru
-  categories:
-    - games
-- repo: gnuguix
-  srcname: chroma
-  binname: chroma
-  visiblename: chroma
-  version: "1.21"
-  origversion: null
-  status: newest
-  summary: Abstract puzzle game
-- repo: kali_rolling
-  subrepo: main
-  srcname: chroma
-  binnames:
-    - chroma-data
-    - chroma-curses
-    - chroma
-  visiblename: chroma
-  version: "1.19"
-  origversion: 1.19-2
-  status: outdated
-  maintainers:
-    - anakin@pobox.com
-  categories:
-    - misc
-- repo: libregamewiki
-  srcname: Chroma
-  visiblename: Chroma
-  version: "1.20"
-  origversion: 1.20 (2021-10-31)
-  status: outdated
-  categories:
-    - games
 - repo: mageia_9
   subrepo: core/release
   srcname: chroma
@@ -303,13 +340,28 @@
     - chroma-common
   visiblename: chroma
   version: "1.20"
-  origversion: 1.20-1.118
+  origversion: 1.20-1.119
   status: outdated
   summary: Abstract puzzle game with complex patterns of colourful shapes
   licenses:
     - GPL-2.0-only
   categories:
     - Amusements/Games/Action/Arcade
+- repo: parrot
+  subrepo: parrot/main
+  srcname: chroma
+  binnames:
+    - chroma-data
+    - chroma-curses
+    - chroma
+  visiblename: chroma
+  version: "1.19"
+  origversion: 1.19-2
+  status: outdated
+  maintainers:
+    - anakin@pobox.com
+  categories:
+    - misc
 - repo: parrot
   subrepo: parrot-updates/main
   srcname: chroma
@@ -325,6 +377,15 @@
     - anakin@pobox.com
   categories:
     - misc
+- repo: pclinuxos
+  srcname: chroma
+  visiblename: chroma
+  version: "1.18"
+  origversion: 1.18-1pclos2021
+  status: outdated
+  summary: Abstract puzzle game with complex patterns of colourful shapes
+  categories:
+    - Games/Puzzles
 - repo: pureos_landing
   subrepo: landing/main
   srcname: chroma
@@ -340,67 +401,6 @@
     - anakin@pobox.com
   categories:
     - games
-- repo: raspbian_oldstable
-  subrepo: main
-  srcname: chroma
-  binnames:
-    - chroma-data
-    - chroma-curses
-    - chroma
-  visiblename: chroma
-  version: "1.19"
-  origversion: 1.19-2
-  status: outdated
-  maintainers:
-    - anakin@pobox.com
-  categories:
-    - misc
-- repo: raspbian_stable
-  subrepo: main
-  srcname: chroma
-  binnames:
-    - chroma-data
-    - chroma-curses
-    - chroma
-  visiblename: chroma
-  version: "1.19"
-  origversion: 1.19-2
-  status: outdated
-  maintainers:
-    - anakin@pobox.com
-  categories:
-    - misc
-- repo: raspbian_testing
-  subrepo: main
-  srcname: chroma
-  binnames:
-    - chroma-data
-    - chroma-curses
-    - chroma
-  visiblename: chroma
-  version: "1.19"
-  origversion: 1.19-2
-  status: outdated
-  maintainers:
-    - anakin@pobox.com
-  categories:
-    - misc
-- repo: rosa_2019_1
-  subrepo: contrib/release
-  srcname: chroma
-  binnames:
-    - chroma
-  visiblename: chroma
-  version: "1.20"
-  origversion: 1.20-1
-  status: outdated
-  summary: Abstract puzzle game with complex patterns of colourful shapes
-  maintainers:
-    - alexander@mezon.ru
-  licenses:
-    - GPLv2+
-  categories:
-    - Games/Puzzles
 - repo: rosa_13
   subrepo: contrib/release
   srcname: chroma
