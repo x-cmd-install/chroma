@@ -30,8 +30,8 @@ x install chroma
 
 评分最低的几项:
 
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Security-Policy** (0/10) — security policy file not detected
 
 ## 源代码
@@ -47,26 +47,26 @@ x install chroma
 
 ## 流行度
 
-- **Star**: 29,702 · **Fork**: 2,610 · **开放 issue**: 1,734 · **贡献者**: 196
+- **Star**: 29,714 · **Fork**: 2,609 · **开放 issue**: 1,736 · **贡献者**: 196
 
 ## 累计统计
 
-- **发布数**: 137 · **已合并 PR**: 4459 · **开放 PR**: 601 · **已关闭 issue**: 1354 · **开放 issue**: 380 · **提交数**: 4680
+- **发布数**: 137 · **已合并 PR**: 4459 · **开放 PR**: 599 · **已关闭 issue**: 1354 · **开放 issue**: 382 · **提交数**: 4680
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 3 | 43 | 0 | 16 | 1 |
-| last60d | 2026-09-18 | 0 | 47 | 117 | 0 | 34 | 32 |
-| 90d | 2026-08-19 | 0 | 99 | 163 | 1 | 50 | 66 |
-| last180d | 2026-05-21 | 0 | 328 | 318 | 7 | 93 | 288 |
-| 360d | 2025-11-22 | 22 | 1102 | 456 | 42 | 158 | 977 |
-| last720d | 2024-11-27 | 68 | 2993 | 555 | 265 | 257 | 2768 |
+| 30d | 2026-10-20 | 0 | 3 | 39 | 0 | 14 | 1 |
+| last60d | 2026-09-20 | 0 | 47 | 114 | 0 | 35 | 32 |
+| 90d | 2026-08-21 | 0 | 91 | 156 | 1 | 52 | 66 |
+| last180d | 2026-05-23 | 0 | 322 | 314 | 7 | 95 | 288 |
+| 360d | 2025-11-24 | 22 | 1093 | 454 | 42 | 160 | 977 |
+| last720d | 2024-11-29 | 68 | 2990 | 553 | 265 | 259 | 2762 |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/chroma) 上共有 **39** 个发行版报告此项目。**9** 个 ✅ 已是最新上游版本，**30** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/chroma) 上共有 **38** 个发行版报告此项目。**9** 个 ✅ 已是最新上游版本，**29** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -86,4 +86,4 @@ chroma 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T11:11:31Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T08:14:55Z._
