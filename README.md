@@ -47,35 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 29,739 · **Forks**: 2,616 · **Open issues**: 1,737 · **Contributors**: 196
+- **Stars**: 29,752 · **Forks**: 2,623 · **Open issues**: 1,737 · **Contributors**: 196
 
 ## Totals (cumulative)
 
-- **Releases**: 137 · **Merged PRs**: 4459 · **Open PRs**: 605 · **Closed issues**: 1353 · **Open issues**: 384 · **Commits**: 4680
+- **Releases**: 137 · **Merged PRs**: 4459 · **Open PRs**: 609 · **Closed issues**: 1353 · **Open issues**: 384 · **Commits**: 4680
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 35 | 0 | 12 | 1 |
-| last60d | 2026-09-25 | 0 | 43 | 107 | 0 | 32 | 24 |
-| 90d | 2026-08-26 | 0 | 90 | 155 | 1 | 52 | 61 |
-| last180d | 2026-05-28 | 0 | 297 | 320 | 7 | 96 | 246 |
-| 360d | 2025-11-29 | 22 | 1085 | 459 | 40 | 161 | 960 |
-| last720d | 2024-12-04 | 68 | 2970 | 556 | 262 | 260 | 2748 |
-
-## Distribution status
-
-Reported by **38** distros on [repology.org](https://repology.org/project/chroma). **9** are ✅ on the latest upstream release, **29** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `1.19` | ⚠️ outdated |
-| Debian 14 | `1.19` | ⚠️ outdated |
-| Debian 13 | `1.19` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `1.19` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `1.19` | ⚠️ outdated |
-| Fedora rawhide | `1.21` | ✅ latest |
+| 30d | 2026-10-26 | 0 | 0 | 36 | 0 | 11 | 1 |
+| last60d | 2026-09-26 | 0 | 40 | 106 | 0 | 32 | 24 |
+| 90d | 2026-08-27 | 0 | 89 | 157 | 1 | 52 | 61 |
+| last180d | 2026-05-29 | 0 | 279 | 323 | 7 | 95 | 246 |
+| 360d | 2025-11-30 | 22 | 1084 | 463 | 40 | 161 | 960 |
+| last720d | 2024-12-05 | 68 | 2962 | 560 | 260 | 260 | 2742 |
 
 ## Improve this data
 
@@ -86,4 +73,4 @@ Install metadata for chroma lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:37:51Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:32:45Z._
